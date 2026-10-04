@@ -1,0 +1,18 @@
+Git Workflow for Exercise 03
+
+1. Edit:
+Created and edited the project files, including README.md and git_workflow.txt.
+
+2. Check:
+Used "git status" to check the current changes.
+
+3. Add:
+Used "git add ." to stage the changes.
+
+4. Commit:
+Used "git commit" to save the changes with a descriptive commit message.
+
+5. Push:
+Used "git push" to upload the committed changes to the GitHub repository.
+
+This workflow keeps track of changes and ensures that the local work is synchronized with the remote repository.
